@@ -1,2 +1,7 @@
+[user]
+	email = chaudharimilind07@gmail.com
+	name = milindc2031
+[push]
+	default = matching
 [commit]
-  template = ~/.gitmessage
+  template = ~/test/.gitmessage
